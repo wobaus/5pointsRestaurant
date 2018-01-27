@@ -2,7 +2,7 @@
 
 An MVC web app for Five Points Restaurant
 
-# team
+# Team
 Devin Ludwig
 Sunmi Bausmann
 Armen Juhl
